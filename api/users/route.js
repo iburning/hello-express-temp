@@ -9,5 +9,6 @@ var router = express.Router();
 var controller = require('./controller');
 
 router.get('/', controller.list);
+router.post('/', controller.save);
 
 module.exports = router;
