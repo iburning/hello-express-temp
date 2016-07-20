@@ -1,7 +1,7 @@
 /**
  * @fileOverview users model
  * @author: burning <www.cafeinit.com>
- * @date: 2016-07-19
+ * @date: 2016-07-20
  */
 
 // var bcrypt = require('bcrypt-nodejs');
